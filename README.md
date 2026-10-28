@@ -111,7 +111,11 @@ I'm a developer focused on growing across **Artificial Intelligence / Machine Le
 </div>
 
 <div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com/?user=Echo-Nexus&hide_border=true&background=0B1020&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=D7E3FF&dates=8A9AB8" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Echo-Nexus&theme=transparent&hide_border=true&background=0B1020&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=D7E3FF&dates=8A9AB8"
+    alt="Echo-Nexus GitHub contribution streak"
+    width="95%"
+  />
 </div>
 
 > Stats cards are served by third-party projects, so they can occasionally be rate-limited or unavailable. Language charts describe code in repositories, not necessarily overall skill level.
@@ -120,9 +124,19 @@ I'm a developer focused on growing across **Artificial Intelligence / Machine Le
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Echo-Nexus/Echo-Nexus/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Echo-Nexus/Echo-Nexus/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake moving across the GitHub contribution grid" src="https://raw.githubusercontent.com/Echo-Nexus/Echo-Nexus/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Echo-Nexus/Echo-Nexus/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Echo-Nexus/Echo-Nexus/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/Echo-Nexus/Echo-Nexus/output/github-contribution-grid-snake-dark.svg"
+      width="100%"
+    />
   </picture>
 </div>
 
