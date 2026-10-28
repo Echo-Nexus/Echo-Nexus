@@ -31,3 +31,13 @@
 - GitHub stats and streak images are third-party hosted services and can occasionally be unavailable, rate-limited, or slow. They are optional; remove a card if it breaks.
 - GitHub README content supports Markdown and limited HTML, but not custom JavaScript or CSS. Animations should be hosted GIFs/SVGs/images.
 - The banner is an image, not editable HTML. Replace it with your own optimized banner later if desired.
+
+
+## If the GitHub Overview cards do not load
+
+These cards are images from third-party services, so they can fail independently of your README.
+
+1. Open each exact image URL in a new browser tab.
+2. If a card endpoint returns an error, wait and retry; GitHub also caches README images.
+3. The stats cards use GitHub Stats Extended, and the streak card uses `streak-stats.demolab.com`.
+4. For maximum reliability, self-host the stats service or generate static cards through GitHub Actions.

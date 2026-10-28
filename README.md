@@ -106,12 +106,12 @@ I'm a developer focused on growing across **Artificial Intelligence / Machine Le
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Echo-Nexus&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0B1020&title_color=00E5FF&icon_color=8B5CF6&text_color=D7E3FF" alt="Echo-Nexus GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nexus&layout=compact&hide_border=true&langs_count=8&bg_color=0B1020&title_color=00E5FF&text_color=D7E3FF" alt="Most-used languages on Echo-Nexus repositories" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Echo-Nexus&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0B1020&title_color=00E5FF&icon_color=8B5CF6&text_color=D7E3FF&cache_seconds=86400" alt="Echo-Nexus GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Echo-Nexus&layout=compact&hide_border=true&langs_count=8&bg_color=0B1020&title_color=00E5FF&text_color=D7E3FF&cache_seconds=86400" alt="Most-used languages on Echo-Nexus repositories" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Echo-Nexus&hide_border=true&background=0B1020&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=D7E3FF&dates=8A9AB8" alt="GitHub contribution streak" />
+  <img width="95%" src="https://streak-stats.demolab.com/?user=Echo-Nexus&hide_border=true&background=0B1020&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=D7E3FF&dates=8A9AB8" alt="GitHub contribution streak" />
 </div>
 
 > Stats cards are served by third-party projects, so they can occasionally be rate-limited or unavailable. Language charts describe code in repositories, not necessarily overall skill level.
